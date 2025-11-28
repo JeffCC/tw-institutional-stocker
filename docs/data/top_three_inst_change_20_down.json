@@ -686,13 +686,6 @@
     "change": 0.0
   },
   {
-    "code": "00851",
-    "name": "台新全球AI",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
     "code": "00852L",
     "name": "國泰美國道瓊正2",
     "market": "TWSE",
@@ -1297,6 +1290,13 @@
   {
     "code": "1101",
     "name": "台泥",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
+    "code": "1101B",
+    "name": "台泥乙特",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0

@@ -490,13 +490,6 @@
     "change": 0.0
   },
   {
-    "code": "00707R",
-    "name": "期元大S&P日圓反1",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
     "code": "00708L",
     "name": "期元大S&P黃金正2",
     "market": "TWSE",
@@ -695,13 +688,6 @@
   {
     "code": "00850",
     "name": "元大臺灣ESG永續",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
-    "code": "00851",
-    "name": "台新全球AI",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
@@ -1302,8 +1288,15 @@
     "change": 0.0
   },
   {
-    "code": "01009T",
-    "name": "王道圓滿R1",
+    "code": "01002T",
+    "name": "土銀國泰R1",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
+    "code": "01004T",
+    "name": "土銀富邦R2",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
@@ -1330,15 +1323,15 @@
     "change": 0.0
   },
   {
-    "code": "02001S",
-    "name": "策元大加權策略N",
+    "code": "1101",
+    "name": "台泥",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
   },
   {
-    "code": "1101",
-    "name": "台泥",
+    "code": "1101B",
+    "name": "台泥乙特",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
@@ -1395,6 +1388,13 @@
   {
     "code": "1203",
     "name": "味王",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
+    "code": "1210",
+    "name": "大成",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
