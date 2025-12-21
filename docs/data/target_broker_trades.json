@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-20T02:10:45.381554",
+  "updated": "2025-12-21T02:30:55.100818",
   "brokers": {
     "元大-中壢": [
       {
@@ -320,13 +320,6 @@
         "rank": 8
       },
       {
-        "stock_code": "2891",
-        "net_vol": 11144,
-        "side": "buy",
-        "pct": 12.67,
-        "rank": 3
-      },
-      {
         "stock_code": "2881",
         "net_vol": -6901,
         "side": "sell",
@@ -453,13 +446,6 @@
         "side": "buy",
         "pct": 3.3,
         "rank": 2
-      },
-      {
-        "stock_code": "2891",
-        "net_vol": -1012,
-        "side": "sell",
-        "pct": 1.15,
-        "rank": 9
       },
       {
         "stock_code": "2881",
@@ -601,13 +587,6 @@
         "rank": 8
       },
       {
-        "stock_code": "2891",
-        "net_vol": -1071,
-        "side": "sell",
-        "pct": 1.22,
-        "rank": 8
-      },
-      {
         "stock_code": "2881",
         "net_vol": 1235,
         "side": "buy",
@@ -692,15 +671,6 @@
         "rank": 3
       }
     ],
-    "凱基-城中": [
-      {
-        "stock_code": "2891",
-        "net_vol": 296,
-        "side": "buy",
-        "pct": 0.34,
-        "rank": 8
-      }
-    ],
     "凱基-彰化": [
       {
         "stock_code": "2345",
@@ -747,13 +717,6 @@
       }
     ],
     "凱基-站前": [
-      {
-        "stock_code": "2891",
-        "net_vol": -612,
-        "side": "sell",
-        "pct": 0.7,
-        "rank": 13
-      },
       {
         "stock_code": "2882",
         "net_vol": -451,
@@ -824,13 +787,6 @@
         "side": "sell",
         "pct": 2.07,
         "rank": 7
-      },
-      {
-        "stock_code": "2891",
-        "net_vol": 12100,
-        "side": "buy",
-        "pct": 13.75,
-        "rank": 2
       },
       {
         "stock_code": "2881",
@@ -993,15 +949,6 @@
         "side": "buy",
         "pct": 0.35,
         "rank": 15
-      }
-    ],
-    "富邦-南員林": [
-      {
-        "stock_code": "2891",
-        "net_vol": -718,
-        "side": "sell",
-        "pct": 0.82,
-        "rank": 12
       }
     ],
     "富邦-台北": [
@@ -1181,13 +1128,6 @@
         "rank": 6
       },
       {
-        "stock_code": "2891",
-        "net_vol": 411,
-        "side": "buy",
-        "pct": 0.47,
-        "rank": 6
-      },
-      {
         "stock_code": "2881",
         "net_vol": 203,
         "side": "buy",
@@ -1307,13 +1247,6 @@
         "side": "sell",
         "pct": 20.84,
         "rank": 1
-      },
-      {
-        "stock_code": "2891",
-        "net_vol": -7471,
-        "side": "sell",
-        "pct": 8.49,
-        "rank": 2
       },
       {
         "stock_code": "2881",
@@ -1444,13 +1377,6 @@
         "rank": 6
       },
       {
-        "stock_code": "2891",
-        "net_vol": 10533,
-        "side": "buy",
-        "pct": 11.97,
-        "rank": 4
-      },
-      {
         "stock_code": "2881",
         "net_vol": 3416,
         "side": "buy",
@@ -1570,13 +1496,6 @@
         "side": "buy",
         "pct": 5.58,
         "rank": 1
-      },
-      {
-        "stock_code": "2891",
-        "net_vol": 508,
-        "side": "buy",
-        "pct": 0.58,
-        "rank": 5
       },
       {
         "stock_code": "2881",
@@ -1772,13 +1691,6 @@
         "rank": 2
       },
       {
-        "stock_code": "2891",
-        "net_vol": 15072,
-        "side": "buy",
-        "pct": 17.13,
-        "rank": 1
-      },
-      {
         "stock_code": "2881",
         "net_vol": 2409,
         "side": "buy",
@@ -1898,13 +1810,6 @@
         "side": "sell",
         "pct": 4.63,
         "rank": 4
-      },
-      {
-        "stock_code": "2891",
-        "net_vol": 294,
-        "side": "buy",
-        "pct": 0.33,
-        "rank": 9
       },
       {
         "stock_code": "2881",
