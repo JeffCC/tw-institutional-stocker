@@ -845,5 +845,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.314251021322841,
     "three_inst_ratio_change_20": -4.1475819025713765
+  },
+  {
+    "date": "2026-01-06",
+    "code": "6706",
+    "name": "惠特",
+    "market": "TWSE",
+    "foreign_ratio": 5.53,
+    "trust_ratio": 0.5442510213228415,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.074251021322842,
+    "three_inst_ratio_change_20": -3.9975819025713752
   }
 ]
