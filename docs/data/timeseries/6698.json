@@ -889,5 +889,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9978430778316045,
     "three_inst_ratio_change_20": -1.9321569221683956
+  },
+  {
+    "date": "2026-01-12",
+    "code": "6698",
+    "name": "旭暉應材",
+    "market": "TWSE",
+    "foreign_ratio": 1.95,
+    "trust_ratio": 0.007843077831604525,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.9578430778316045,
+    "three_inst_ratio_change_20": -1.9521569221683956
   }
 ]
