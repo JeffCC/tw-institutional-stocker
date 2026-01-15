@@ -911,5 +911,16 @@
     "dealer_ratio": 0.06390370478533307,
     "three_inst_ratio": 1.5576454520212581,
     "three_inst_ratio_change_20": 0.7934142116319808
+  },
+  {
+    "date": "2026-01-14",
+    "code": "00981A",
+    "name": "主動統一台股增長",
+    "market": "TWSE",
+    "foreign_ratio": 1.84,
+    "trust_ratio": 0.38801903199428533,
+    "dealer_ratio": 0.06461599200570947,
+    "three_inst_ratio": 2.2926350239999946,
+    "three_inst_ratio_change_20": 1.6688137142189807
   }
 ]
