@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.9135769971255788,
     "three_inst_ratio_change_20": -0.15642300287442124
+  },
+  {
+    "date": "2026-01-15",
+    "code": "6152",
+    "name": "百一",
+    "market": "TWSE",
+    "foreign_ratio": 0.91,
+    "trust_ratio": 0.0035769971255787646,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.9135769971255788,
+    "three_inst_ratio_change_20": -0.18642300287442126
   }
 ]
