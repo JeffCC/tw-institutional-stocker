@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.370915909061767,
     "three_inst_ratio_change_20": 0.1809159090617669
+  },
+  {
+    "date": "2026-01-19",
+    "code": "1517",
+    "name": "利奇",
+    "market": "TWSE",
+    "foreign_ratio": 2.26,
+    "trust_ratio": 0.0009159090617665298,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.2609159090617665,
+    "three_inst_ratio_change_20": 0.05091590906176657
   }
 ]

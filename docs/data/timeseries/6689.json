@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.9519691176470593,
     "three_inst_ratio_change_20": -0.18140588235294075
+  },
+  {
+    "date": "2026-01-19",
+    "code": "6689",
+    "name": "伊雲谷",
+    "market": "TWSE",
+    "foreign_ratio": 4.93,
+    "trust_ratio": -0.8280308823529412,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.101969117647059,
+    "three_inst_ratio_change_20": -0.0014058823529410347
   }
 ]
